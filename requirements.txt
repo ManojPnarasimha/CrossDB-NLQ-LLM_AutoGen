@@ -1,0 +1,14 @@
+autogenstudio
+azure-ai-language-generation
+
+autogen==1.0.16
+langchain==0.1.13
+langchain-community==0.0.29
+langchain-experimental==0.0.55
+langchain-openai==0.1.1
+dotenv
+psycopg2-binary==2.9.9
+
+#these are the nessesary libraries which are required.
+
+
