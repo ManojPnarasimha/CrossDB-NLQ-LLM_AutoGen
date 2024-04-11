@@ -16,6 +16,8 @@ This application demonstrates how to use the `autogen` library to create a group
 
 ## Setup
 
+0. **environment variable** Copy .env.local to .env and replace with your secret values
+
 1. **Environment Variables**: Create a `.env` file in the root directory of your project. Add your Azure OpenAI API key and any other necessary environment variables.
 
     ```
