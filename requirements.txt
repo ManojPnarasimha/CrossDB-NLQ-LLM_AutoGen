@@ -9,6 +9,9 @@ langchain-openai==0.1.1
 dotenv
 psycopg2-binary==2.9.9
 
+<<<<<<< HEAD
 #these are the nessesary libraries which are required.
 
+=======
+>>>>>>> origin/master
 
